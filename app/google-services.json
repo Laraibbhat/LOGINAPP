@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "497315455654",
+    "firebase_url": "https://login-app-ef483.firebaseio.com",
+    "project_id": "login-app-ef483",
+    "storage_bucket": "login-app-ef483.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497315455654:android:43f4d0fc3de80f5f",
+        "android_client_info": {
+          "package_name": "com.example.laraib.loginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497315455654-h3akas90qaa9s85qvmn9hh20inno0a3j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.laraib.loginapp",
+            "certificate_hash": "6588d6d9141f38561b5b9f79ac3482e6c584e7e6"
+          }
+        },
+        {
+          "client_id": "497315455654-a2m0b5i55tq1ahgfbusvr78tu1v4shoa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJvo9HTPMfb-tNLCMrA-tlXIEbBvf1JHk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497315455654-a2m0b5i55tq1ahgfbusvr78tu1v4shoa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
